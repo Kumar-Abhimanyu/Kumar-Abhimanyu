@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Kumar Abhimanyu 👋
 
 <!--
 **Kumar-Abhimanyu/Kumar-Abhimanyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##### I'm a Computer Science Sophomore, pursuing my B.Tech from PES university, Bangalore.
+<!-- #### 	👨‍💻 I'm currently learning
+#### 🔧 Tools
+#### ☎️ Contact
+ -->
