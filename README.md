@@ -1,6 +1,6 @@
 # Hi there! I'm Kumar Abhimanyu <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=30>
 
-<p align="left">💻 I'm currently pursuing my B.Tech in Computer Science and Engineering from PES University, Bengaluru, India </p>
+<p align="left">💻 PES University, Bengaluru, India </p>
 
 ## 👨‍💻 Some of my favourite languages (One can say so)
 
