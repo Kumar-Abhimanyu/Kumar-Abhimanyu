@@ -1,49 +1,44 @@
-# Hi there! I'm Kumar Abhimanyu <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=30>
+<h1 align="center">Kumar Abhimanyu</h1>
 
-<p align="left">💻 PES University, Bengaluru, India </p>
+<p align="center">
+  <strong>Software Engineer</strong><br/>
+  Building software at the intersection of backend engineering, intelligent systems, and practical problem-solving.
+</p>
 
-## 👨‍💻 Some of my favourite languages (One can say so)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kumar-abhimanyu-a2b44a1b9/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:kumar.abhimanyu.pes@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Kumar-Abhimanyu?tab=repositories">Repositories</a>
+</p>
 
-<a href=""><img alt="" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=black" /></a>
+---
 
-## 🔧 Some lovely tools!
+### About
 
-<a href=""><img alt="" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+I'm a software engineer interested in designing reliable applications, exploring machine learning, and turning ideas into working products.
 
-<a href=""><img alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></a>
+My work spans application development and experimentation with data-driven systems. I use this space to build, learn in public, and contribute to projects that solve real problems.
 
-<a href=""><img alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+### Tech
 
-<a href=""><img alt="" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a>
+**Languages** &nbsp; Python · Java · JavaScript · C
 
-<a href=""><img alt="" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" /></a>
+**Development** &nbsp; Git · React Native · HTML · MySQL · MongoDB
 
-## ☎️ Contact me
+**Data & ML** &nbsp; Jupyter · Google Colab · Anaconda
 
-<a href = "mailto:kumar.abhimanyu.pes@gmail.com?subject=From your Github Profile" ><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href = "https://www.linkedin.com/in/kumar-abhimanyu-a2b44a1b9/" ><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><a>
- 
- ## 🏆 GitHub Stats
+### Selected work
 
-<img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kumar-Abhimanyu&theme=github_dark" />
+| Project | Focus |
+| :-- | :-- |
+| [Spotify Recommender System](https://github.com/Kumar-Abhimanyu/Spotify-Recommender-System) | Music recommendation and machine learning |
+| [R-CNN Implementation](https://github.com/Kumar-Abhimanyu/implementation_of_RCNN) | Computer vision and object detection |
+| [Stock Price Prediction](https://github.com/Kumar-Abhimanyu/Stock-Price-Prediction) | Predictive modeling on financial data |
 
-<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kumar-Abhimanyu&theme=github_dark" />
+### Connect
 
-<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kumar-Abhimanyu&theme=github_dark" />
+I'm interested in engineering discussions, interesting technical problems, and open-source collaboration.
 
-<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kumar-Abhimanyu&theme=github_dark" />
-
-<img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kumar-Abhimanyu&theme=github_dark&utcOffset=8" />
+**[Reach out on LinkedIn](https://www.linkedin.com/in/kumar-abhimanyu-a2b44a1b9/)** or **[send me an email](mailto:kumar.abhimanyu.pes@gmail.com)**.
