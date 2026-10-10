@@ -11,17 +11,6 @@ I build production systems with an emphasis on reliability, performance, and pra
 **Target Corporation** — Engineer  
 *Aug 2024 – Present · Bengaluru*
 
-- Built a unified LLM orchestration layer, reducing pipeline latency by approximately **40%**.
-- Developed FastAPI services for vector retrieval and conversational session management, reducing irrelevant outputs by **35%**.
-- Built Kotlin-based MCP tools for post-purchase agents and migrated transport from HTTP to RPC.
-- Designed services for rules evaluation, Kafka event processing, and MongoDB-backed persistence.
-
-**Target Corporation** — Engineering Intern  
-*Feb – Aug 2024*
-
-- Developed a GenAI pipeline for product-attribute enrichment using OpenAI and LangChain.
-- Built supporting frontend, ingestion, and monitoring components.
-
 ## Publication
 
 **Enhanced Deep Learning Models for Real-Time Weed Classification on the Edge**  
